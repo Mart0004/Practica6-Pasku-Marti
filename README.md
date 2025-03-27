@@ -41,7 +41,7 @@ void loop()
 
 Este código inicializa una tarjeta SD, luego abre un archivo llamado "archivo.txt". Una vez abierto, lee el contenido del archivo y lo envía a través del puerto serie, y finalmente cierra el archivo.
 
-###**El "void setup"**: 
+### **El "void setup"**: 
 
 Este subprograma configura la comunicación serial, intenta inicializar la tarjeta SD en el pin 4, abre el archivo "archivo.txt" si la inicialización tiene éxito, y lee su contenido para enviarlo a través de la comunicación serial.
 
