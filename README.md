@@ -49,16 +49,13 @@ Este subprograma configura la comunicación serial, intenta inicializar la tarje
 
 **En este caso el *"void loop()"* no contiene instrucciones**
 
-### Ejemplo de salida por el puerto serie:
-Numero de ejemplo: *5784962103*
-
+### Salida por el puerto serie:
 La salida por el puerto serie será:
 
 ```
-Iniciando SD ... inicialización exitosa
+Iniciando SD ... inicializacion exitosa
 archivo.txt:
-Este es un archivo de prueba.
-5784962103
+Soy el mejor del mundo
 ```
 
 ## EJERCICIO 2
